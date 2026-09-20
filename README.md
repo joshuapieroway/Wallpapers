@@ -9,8 +9,9 @@ Collections · Preview · Usage · Credits
 </div>
 
 ## 📦 Collections
-Folder	Description
-Endfield-Wallpapers/	Arknights: Endfield wallpapers
+| Folder | Description |
+| ------ | ----------- |
+| [`Endfield-Wallpapers/`](./Endfield-Wallpapers) | Arknights: Endfield wallpapers |
 
 More collections will be added over time.
 
