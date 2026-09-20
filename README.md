@@ -3,9 +3,6 @@
 A small, hand-picked collection of anime wallpapers for desktop setups.
 
 <img src="https://img.shields.io/badge/license-personal%20use-D3C6AA?style=for-the-badge&labelColor=272E33" alt="Personal use" /> <img src="https://img.shields.io/github/last-commit/joshuapieroway/Wallpapers?style=for-the-badge&color=83C092&labelColor=272E33" alt="Last commit" />
-
-Collections · Preview · Usage · Credits
-
 </div>
 
 ## 📦 Collections
