@@ -37,4 +37,4 @@ Or skip the history for a smaller download:
 git clone --depth 1 https://github.com/joshuapieroway/Wallpapers.git
 ```
 
-Just want one? Open the image on GitHub, click Download raw file, and you're set.
+Just want one? Open the image on GitHub, click Download raw file.
