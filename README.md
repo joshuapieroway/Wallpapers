@@ -7,19 +7,21 @@ A small, hand-picked collection of anime wallpapers for desktop setups.
 Collections · Preview · Usage · Credits
 
 </div>
+
 ## 📦 Collections
 Folder	Description
 Endfield-Wallpapers/	Arknights: Endfield wallpapers
 
 More collections will be added over time.
 
-🖼 Preview 
+## 📷 Preview 
 (using [serpantinum](https://github.com/ilyamiro/serpantinum) shell by @ilyamiro)
 <!-- Replace the file names below with real images from your repo. Tip: for faster page loads, add small thumbnails (~800px wide) in a `previews/` folder and link each one to its full-resolution file. --> <div align="center">
 	
 <img src="Previews/Screenshot_2026-09-19-200214.png" width="400" />	<img src="Previews/Screenshot_2026-09-19-200239.png" width="400" />
 <img src="Previews/Screenshot_2026-09-19-200312.png" width="400" />	<img src="Previews/Screenshot_2026-09-19-200326.png" width="400" />
 </div>
+
 ## 🚀 Usage
 Get the wallpapers
 
