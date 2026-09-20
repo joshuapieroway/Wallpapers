@@ -1,4 +1,4 @@
-## 🖼️ Wallpapers
+# 🖼️ Wallpapers
 
 A small, hand-picked collection of anime wallpapers for desktop setups.
 
@@ -7,7 +7,7 @@ A small, hand-picked collection of anime wallpapers for desktop setups.
 Collections · Preview · Usage · Credits
 
 </div>
-## 📦 Collections
+# 📦 Collections
 Folder	Description
 Endfield-Wallpapers/	Arknights: Endfield wallpapers
 
@@ -19,7 +19,7 @@ More collections will be added over time.
 <img src="Previews/Screenshot_2026-09-19-200214.png" width="400" />	<img src="Previews/Screenshot_2026-09-19-200239.png" width="400" />
 <img src="Previews/Screenshot_2026-09-19-200312.png" width="400" />	<img src="Previews/Screenshot_2026-09-19-200326.png" width="400" />
 </div>
-## 🚀 Usage
+# 🚀 Usage
 Get the wallpapers
 
 Grab everything:
