@@ -9,6 +9,7 @@ A small, hand-picked collection of anime wallpapers for desktop setups.
 | Folder | Description |
 | ------ | ----------- |
 | [`Endfield-Wallpapers/`](./Endfield-Wallpapers) | Arknights: Endfield wallpapers |
+| [`Zenless-Wallpapers/`](./Zenless-Wallpapers) | Zenless Zone Zero Wallpapers |
 
 More collections will be added over time.
 
